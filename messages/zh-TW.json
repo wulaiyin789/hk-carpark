@@ -1,0 +1,37 @@
+{
+  "title": "香港停車場資訊",
+  "language": {
+    "english": "英文",
+    "simplifiedChinese": "简體中文",
+    "traditionalChinese": "繁體中文"
+  },
+  "carParkTable": {
+    "search": "搜尋名稱或編號...",
+    "id": "ID",
+    "name": "名稱",
+    "address": "地址",
+    "vacancies": "空位數量"
+  },
+  "map": {
+    "resetView": "重設視圖",
+    "viewAll": "查看所有",
+    "carparksInArea": "{count}個停車場在此區域",
+    "viewDetails": "查看詳情",
+    "vacancies": "空位數量"
+  },
+  "carParkDetails": {
+    "address": "地址",
+    "district": "區域",
+    "contact": "聯繫方式",
+    "website": "網站",
+    "openingStatus": "開放狀態",
+    "facilities": "設施",
+    "paymentMethods": "付款方式",
+    "vacancies": "空位數量",
+    "privateCar": "私人車輛",
+    "lgv": "大型貨卡",
+    "hgv": "重型貨卡",
+    "motorcycle": "機車",
+    "backToMap": "返回地圖"
+  }
+}
